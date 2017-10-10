@@ -17,7 +17,6 @@ namespace Exercise1
             konto1.withdrawMoney(1234, 5000); //sprawdzenie czy działa błąd związany z wypłacaniem zbyt dużej ilości pieniędzy
             konto1.withdrawMoney(1234, 2000);
             konto1.getInformationAboutAccount(1234);
-
         }
     }
 }
