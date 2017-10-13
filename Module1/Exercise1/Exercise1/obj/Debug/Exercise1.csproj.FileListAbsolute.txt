@@ -1,7 +1,13 @@
-C:\Users\Marek\Documents\Visual Studio 2017\Projects\dotNetExercises\Module1\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
-C:\Users\Marek\Documents\Visual Studio 2017\Projects\dotNetExercises\Module1\Exercise1\Exercise1\bin\Debug\Exercise1.exe
-C:\Users\Marek\Documents\Visual Studio 2017\Projects\dotNetExercises\Module1\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
-C:\Users\Marek\Documents\Visual Studio 2017\Projects\dotNetExercises\Module1\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
-C:\Users\Marek\Documents\Visual Studio 2017\Projects\dotNetExercises\Module1\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
-C:\Users\Marek\Documents\Visual Studio 2017\Projects\dotNetExercises\Module1\Exercise1\Exercise1\obj\Debug\Exercise1.exe
-C:\Users\Marek\Documents\Visual Studio 2017\Projects\dotNetExercises\Module1\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+C:/Users/Marek/Documents/Visual Studio 2017/Projects/dotNetExercises/Module1/Exercise1/Exercise1/bin/Debug/Exercise1.exe.config
+C:/Users/Marek/Documents/Visual Studio 2017/Projects/dotNetExercises/Module1/Exercise1/Exercise1/bin/Debug/Exercise1.exe
+C:/Users/Marek/Documents/Visual Studio 2017/Projects/dotNetExercises/Module1/Exercise1/Exercise1/bin/Debug/Exercise1.pdb
+C:/Users/Marek/Documents/Visual Studio 2017/Projects/dotNetExercises/Module1/Exercise1/Exercise1/obj/Debug/Exercise1.csprojResolveAssemblyReference.cache
+C:/Users/Marek/Documents/Visual Studio 2017/Projects/dotNetExercises/Module1/Exercise1/Exercise1/obj/Debug/Exercise1.csproj.CoreCompileInputs.cache
+C:/Users/Marek/Documents/Visual Studio 2017/Projects/dotNetExercises/Module1/Exercise1/Exercise1/obj/Debug/Exercise1.exe
+C:/Users/Marek/Documents/Visual Studio 2017/Projects/dotNetExercises/Module1/Exercise1/Exercise1/obj/Debug/Exercise1.pdb
+/Users/miQ333/Projects/dotNetExercises/Module1/Exercise1/Exercise1/bin/Debug/Exercise1.exe.config
+/Users/miQ333/Projects/dotNetExercises/Module1/Exercise1/Exercise1/bin/Debug/Exercise1.exe
+/Users/miQ333/Projects/dotNetExercises/Module1/Exercise1/Exercise1/bin/Debug/Exercise1.pdb
+/Users/miQ333/Projects/dotNetExercises/Module1/Exercise1/Exercise1/obj/Debug/Exercise1.csproj.CoreCompileInputs.cache
+/Users/miQ333/Projects/dotNetExercises/Module1/Exercise1/Exercise1/obj/Debug/Exercise1.exe
+/Users/miQ333/Projects/dotNetExercises/Module1/Exercise1/Exercise1/obj/Debug/Exercise1.pdb
